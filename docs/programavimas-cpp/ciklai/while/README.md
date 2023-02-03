@@ -110,6 +110,8 @@ Kodas:
 ```cpp
 #include <iostream>
 #include <time.h>
+#include<cstdlib> // be sio neveikia srand naudojant CodeBlokc
+
 using namespace std;
 
 int main()
