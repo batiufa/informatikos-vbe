@@ -110,7 +110,7 @@ Kodas:
 ```cpp
 #include <iostream>
 #include <time.h>
-#include<cstdlib> // be sio neveikia srand naudojant CodeBlock
+#include <cstdlib> // be sios neveikia srand naudojant CodeBlock
 
 using namespace std;
 
